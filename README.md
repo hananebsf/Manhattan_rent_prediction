@@ -2,9 +2,11 @@
 
 This project predicts rental prices in Manhattan using a Linear Regression model based on real estate data from StreetEasy—New York City’s leading real estate marketplace, covering everything from studios to high-rises, from Brooklyn Heights to Harlem.
 
-**Dataset Overview**
+**📊 Dataset Overview**
 
-In this project, we use only the Manhattan dataset from a larger dataset that contains 5,000 rental listings across Manhattan, Brooklyn, and Queens. These listings were active on StreetEasy in June 2016.
+This project uses rental data from StreetEasy, focusing only on Manhattan.  
+The dataset can be accessed here:  
+[📂 Download manhattan.csv](https://raw.githubusercontent.com/sonnynomnom/Codecademy-Machine-Learning-Fundamentals/master/StreetEasy/manhattan.csv)
 
 The full dataset was originally broken into:
 
